@@ -17,7 +17,10 @@ C++, C#, Python, SQL / MySQL / Postgre SQL, Azure/AWS
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-<div width="100%" height="250px"> ![connect-with-me.png](./connect-with-me.png) </div>
+<div style="width:100% ; height:250px">
+![connect-with-me.png](./connect-with-me.png)   
+<div>
+
 
 
 <p align="center">
