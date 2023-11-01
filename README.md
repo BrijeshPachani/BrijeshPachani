@@ -21,10 +21,10 @@ C++, C#, Python, SQL / MySQL / Postgre SQL, Azure/AWS
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/BrijeshPachani/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anchal_linkedIn"/></a> 
+<a href="https://www.linkedin.com/in/BrijeshPachani/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="in/BrijeshPachani"/></a> 
 <br>
 <br>
-<a href="https://twitter.com/BrijeshPachani" target="blank"><img src="https://img.shields.io/twitter/follow/Anchalsharma24?logo=twitter&style=for-the-badge" alt="Anchals24" /></a>
+<a href="https://twitter.com/BrijeshPachani" target="blank"><img src="https://img.shields.io/twitter/follow/BrijeshPachani?logo=twitter&style=for-the-badge" alt="BrijeshPachani" /></a>
 </p>
 
 <hr>
