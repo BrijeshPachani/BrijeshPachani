@@ -5,8 +5,8 @@
 Hi Coders:
 
 - I am a self driven passionate coder who loves to solve problems and write efficient codes.
-- My primary coding language: Python/C++
-- I am happy to discuss about: Data Structures and Algorithms, Programming in Python/C++, Computer concepts(Operating Systems,Computer Networking,Databases), Cloud(AWS/Azure).
+- My primary coding language: C#/Python/C++
+- I am happy to discuss about: Data Structures and Algorithms, Programming in C#/Python/C++, Computer concepts(Operating Systems,Computer Networking,Databases), Cloud(AWS/Azure).
 - I am looking forward to collaborate on Open-Source Projects.
 
 
@@ -36,4 +36,4 @@ C++, C#, Python, SQL / MySQL / Postgre SQL, Azure/AWS
 [twitter]: https://twitter.com/BrijeshPachani
 [linkedin]: https://www.linkedin.com/in/BrijeshPachani/
 [github]:https://github.com/BrijeshPachani
-[gmail]:mailto:brijpanchani29@gmail.com
+[gmail]:mailto:tobrijeshpanchani@gmail.com
